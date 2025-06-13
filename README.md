@@ -37,4 +37,4 @@ El análisis se centra en 5 puntos clave, explorados en un tablero interactivo:
 5.  (Opcional) Para conectar a Looker Studio, sigue las instrucciones [aquí](#) para generar tus propias credenciales y sube los datos a tu Google Sheets.
 
 ---
-**Autor:** Matías Tomás Vicentes
+**Autor:** Matías Tomás Vicente
