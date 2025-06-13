@@ -1,0 +1,14 @@
+# Credenciales de Google - NUNCA SUBIR ESTE ARCHIVO
+*.json
+
+# Bases de datos generadas por los scripts
+*.db
+*.sqlite
+*.sqlite3
+
+# Carpetas de caché de Python
+__pycache__/
+*.pyc
+
+# Carpetas de configuración de VSCode
+.vscode/
