@@ -16,6 +16,10 @@ El análisis se centra en 5 puntos clave, explorados en un tablero interactivo:
 
 **[Puedes explorar el tablero completo aquí](https://lookerstudio.google.com/reporting/057de687-782e-4ab6-b763-91ebf03a6698)**
 
+### 🔗 Link a la Documentación
+**[Puedes explorar la documentación del proceso aquí](https://docs.google.com/document/d/1DxnqKScSOTILQCtX0PfI4uhmLk700QJBue2WQa4yT10/edit?tab=t.0)**
+
+
 ## 🛠️ Stack Tecnológico
 
 * **Lenguaje:** Python
