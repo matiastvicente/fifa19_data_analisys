@@ -13,11 +13,10 @@ El análisis se centra en 5 puntos clave, explorados en un tablero interactivo:
 * **Perfil de Habilidades por Posición:** Un Gráfico de Radar que define el "ADN de habilidad" para cada rol en el campo.
 
 ### 🔗 Link al Tablero Interactivo
-
-**[Puedes explorar el tablero completo aquí](https://lookerstudio.google.com/reporting/057de687-782e-4ab6-b763-91ebf03a6698)**
+<a href="https://lookerstudio.google.com/reporting/057de687-782e-4ab6-b763-91ebf03a6698" target="_blank">**Puedes explorar el tablero completo aquí**</a>
 
 ### 🔗 Link a la Documentación
-**[Puedes explorar la documentación del proceso aquí](https://docs.google.com/document/d/1DxnqKScSOTILQCtX0PfI4uhmLk700QJBue2WQa4yT10/edit?tab=t.0)**
+<a href="https://docs.google.com/document/d/1DxnqKScSOTILQCtX0PfI4uhmLk700QJBue2WQa4yT10/edit?tab=t.0" target="_blank">**Puedes explorar la documentación del proceso aquí**</a>
 
 
 ## 🛠️ Stack Tecnológico
