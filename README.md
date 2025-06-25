@@ -27,13 +27,5 @@ El análisis se centra en 5 puntos clave, explorados en un tablero interactivo:
 * **Herramienta de BI:** Google Looker Studio
 * **Puente de Datos:** Google Sheets
 
-## ⚙️ Cómo Replicar el Proyecto
-
-1.  Clona este repositorio.
-2.  Asegúrate de tener el archivo `dataset.csv` en la carpeta raíz.
-3.  Ejecuta el script `curado.py` para limpiar los datos y generar la base de datos `dataset.db`.
-4.  (Opcional) Ejecuta los scripts de análisis (`outliers.py`, etc.) para ver los resultados en la consola.
-5.  (Opcional) Para conectar a Looker Studio, sigue las instrucciones [aquí](#) para generar tus propias credenciales y sube los datos a tu Google Sheets.
-
 ---
 **Autor:** Matías Tomás Vicente
